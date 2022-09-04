@@ -1,0 +1,846 @@
+{
+    "consoleList": [
+        {
+            "name": "Nintendo Entertainment System",
+            "nickname": "NES",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1985
+                },
+                {
+                    "country": "JP",
+                    "year": 1983
+                },
+                {
+                    "country": "EU",
+                    "year": 1985
+                },
+                {
+                    "country": "AU",
+                    "year": 1987
+                },
+                {
+                    "country": "BR",
+                    "year": 1993
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Super Nintendo Entertainment System",
+            "nickname": "SNES",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1991
+                },
+                {
+                    "country": "JP",
+                    "year": 1990
+                },
+                {
+                    "country": "EU",
+                    "year": 1992
+                },
+                {
+                    "country": "AU",
+                    "year": 1992
+                },
+                {
+                    "country": "BR",
+                    "year": 1993
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Super Family Computer",
+            "nickname": "Super Famicom",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1991
+                },
+                {
+                    "country": "JP",
+                    "year": 1990
+                },
+                {
+                    "country": "EU",
+                    "year": 1992
+                },
+                {
+                    "country": "AU",
+                    "year": 1992
+                },
+                {
+                    "country": "BR",
+                    "year": 1993
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo 64",
+            "nickname": "N64",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1996
+                },
+                {
+                    "country": "JP",
+                    "year": 1996
+                },
+                {
+                    "country": "EU",
+                    "year": 1997
+                },
+                {
+                    "country": "AU",
+                    "year": 1997
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo GameCube",
+            "nickname": "GameCube",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2001
+                },
+                {
+                    "country": "JP",
+                    "year": 2001
+                },
+                {
+                    "country": "EU",
+                    "year": 2002
+                },
+                {
+                    "country": "AU",
+                    "year": 2002
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo Wii",
+            "nickname": "Wii",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2006
+                },
+                {
+                    "country": "JP",
+                    "year": 2006
+                },
+                {
+                    "country": "EU",
+                    "year": 2006
+                },
+                {
+                    "country": "AU",
+                    "year": 2006
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo Wii U",
+            "nickname": "Wii U",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2012
+                },
+                {
+                    "country": "JP",
+                    "year": 2012
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo Switch",
+            "nickname": "Switch",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2019
+                },
+                {
+                    "country": "JP",
+                    "year": 2019
+                },
+                {
+                    "country": "EU",
+                    "year": 2019
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo DS",
+            "nickname": "DS",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2004
+                },
+                {
+                    "country": "JP",
+                    "year": 2004
+                },
+                {
+                    "country": "EU",
+                    "year": 2005
+                },
+                {
+                    "country": "AU",
+                    "year": 2005
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo DSi",
+            "nickname": "DSi",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2009
+                },
+                {
+                    "country": "JP",
+                    "year": 2008
+                },
+                {
+                    "country": "EU",
+                    "year": 2009
+                },
+                {
+                    "country": "AU",
+                    "year": 2009
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo DSi XL",
+            "nickname": "DSi XL",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2010
+                },
+                {
+                    "country": "JP",
+                    "year": 2009
+                },
+                {
+                    "country": "EU",
+                    "year": 2010
+                },
+                {
+                    "country": "AU",
+                    "year": 2010
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo 3DS",
+            "nickname": "3DS",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2011
+                },
+                {
+                    "country": "JP",
+                    "year": 2011
+                },
+                {
+                    "country": "EU",
+                    "year": 2012
+                },
+                {
+                    "country": "AU",
+                    "year": 2012
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo 3DS XL",
+            "nickname": "3DS XL",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2012
+                },
+                {
+                    "country": "JP",
+                    "year": 2012
+                },
+                {
+                    "country": "EU",
+                    "year": 2012
+                },
+                {
+                    "country": "AU",
+                    "year": 2012
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Nintendo 2DS",
+            "nickname": "2DS",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2013
+                },
+                {
+                    "country": "JP",
+                    "year": 2016
+                },
+                {
+                    "country": "EU",
+                    "year": 2013
+                },
+                {
+                    "country": "AU",
+                    "year": 2013
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "New Nintendo 3DS",
+            "nickname": "New 3DS | NN3DS | N3DS",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2015
+                },
+                {
+                    "country": "JP",
+                    "year": 2014
+                },
+                {
+                    "country": "EU",
+                    "year": 2015
+                },
+                {
+                    "country": "AU",
+                    "year": 2014
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "New Nintendo 3DS XL",
+            "nickname": "New 3DS XL",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2015
+                },
+                {
+                    "country": "JP",
+                    "year": 2014
+                },
+                {
+                    "country": "EU",
+                    "year": 2015
+                },
+                {
+                    "country": "AU",
+                    "year": 2014
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "New Nintendo 2DS XL",
+            "nickname": "New 2DS XL",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2017
+                },
+                {
+                    "country": "JP",
+                    "year": 2017
+                },
+                {
+                    "country": "EU",
+                    "year": 2017
+                },
+                {
+                    "country": "AU",
+                    "year": 2017
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Game Boy",
+            "nickname": "GB",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1989
+                },
+                {
+                    "country": "JP",
+                    "year": 1989
+                },
+                {
+                    "country": "EU",
+                    "year": 1990
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Game Boy Color",
+            "nickname": "GBC",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1998
+                },
+                {
+                    "country": "JP",
+                    "year": 1998
+                },
+                {
+                    "country": "EU",
+                    "year": 1998
+                },
+                {
+                    "country": "AU",
+                    "year": 1998
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Game Boy Advance",
+            "nickname": "GBA",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2001
+                },
+                {
+                    "country": "JP",
+                    "year": 2001
+                },
+                {
+                    "country": "EU",
+                    "year": 2001
+                },
+                {
+                    "country": "AU",
+                    "year": 2001
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Game Boy Advance SP",
+            "nickname": "GBA SP",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2003
+                },
+                {
+                    "country": "JP",
+                    "year": 2003
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "Game Boy Micro",
+            "nickname": "GB Micro",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2005
+                },
+                {
+                    "country": "JP",
+                    "year": 2005
+                },
+                {
+                    "country": "EU",
+                    "year": 2005
+                },
+                {
+                    "country": "AU",
+                    "year": 2005
+                }
+            ],
+            "companyName": "Nintendo"
+        },
+        {
+            "name": "PlayStation",
+            "nickname": "PS1",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1995
+                },
+                {
+                    "country": "JP",
+                    "year": 1994
+                },
+                {
+                    "country": "EU",
+                    "year": 1995
+                },
+                {
+                    "country": "AU",
+                    "year": 1995
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "PlayStation 2",
+            "nickname": "PS2",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2000
+                },
+                {
+                    "country": "JP",
+                    "year": 2000
+                },
+                {
+                    "country": "EU",
+                    "year": 2000
+                },
+                {
+                    "country": "AU",
+                    "year": 2000
+                },
+                {
+                    "country": "BR",
+                    "year": 1993
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "PlayStation 3",
+            "nickname": "PS3",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2006
+                },
+                {
+                    "country": "JP",
+                    "year": 2006
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "PlayStation 4",
+            "nickname": "PS4",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2013
+                },
+                {
+                    "country": "JP",
+                    "year": 2014
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "PlayStation 5",
+            "nickname": "PS5",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2020
+                },
+                {
+                    "country": "JP",
+                    "year": 2020
+                },
+                {
+                    "country": "EU",
+                    "year": 2020
+                },
+                {
+                    "country": "AU",
+                    "year": 2020
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "Xbox",
+            "nickname": "Xbox Original",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2001
+                },
+                {
+                    "country": "JP",
+                    "year": 2002
+                },
+                {
+                    "country": "EU",
+                    "year": 2002
+                },
+                {
+                    "country": "AU",
+                    "year": 2002
+                }
+            ],
+            "companyName": "Microsoft"
+        },
+        {
+            "name": "Xbox 360",
+            "nickname": "360",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2005
+                },
+                {
+                    "country": "JP",
+                    "year": 2005
+                },
+                {
+                    "country": "EU",
+                    "year": 2005
+                },
+                {
+                    "country": "AU",
+                    "year": 2006
+                },
+                {
+                    "country": "BR",
+                    "year": 2006
+                }
+            ],
+            "companyName": "Microsoft"
+        },
+        {
+            "name": "Xbox One",
+            "nickname": "XONE",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2013
+                },
+                {
+                    "country": "JP",
+                    "year": 2014
+                },
+                {
+                    "country": "EU",
+                    "year": 2013
+                },
+                {
+                    "country": "AU",
+                    "year": 2013
+                }
+            ],
+            "companyName": "Microsoft"
+        },
+        {
+            "name": "Xbox Series X",
+            "nickname": "Series X",
+            "launchYear": [
+                {
+                    "country": "Worldwide",
+                    "year": 2020
+                }
+            ],
+            "companyName": "Microsoft"
+        },
+        {
+            "name": "PlayStation Portable",
+            "nickname": "PSP",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2005
+                },
+                {
+                    "country": "JP",
+                    "year": 2004
+                },
+                {
+                    "country": "EU",
+                    "year": 2005
+                },
+                {
+                    "country": "AU",
+                    "year": 2005
+                },
+                {
+                    "country": "BR",
+                    "year": 2005
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "PlayStation Vita",
+            "nickname": "PS Vita",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 2012
+                },
+                {
+                    "country": "JP",
+                    "year": 2011
+                },
+                {
+                    "country": "EU",
+                    "year": 2012
+                },
+                {
+                    "country": "AU",
+                    "year": 2012
+                },
+                {
+                    "country": "BR",
+                    "year": 2012
+                }
+            ],
+            "companyName": "Sony"
+        },
+        {
+            "name": "Master System | Sega Mark III",
+            "nickname": "Master System | Mark III",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1986
+                },
+                {
+                    "country": "JP",
+                    "year": 1985
+                },
+                {
+                    "country": "EU",
+                    "year": 1987
+                },
+                {
+                    "country": "BR",
+                    "year": 1989
+                }
+            ],
+            "companyName": "Sega"
+        },
+        {
+            "name": "Mega Drive | Sega Genesis",
+            "nickname": "Sega Genesis",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1989
+                },
+                {
+                    "country": "JP",
+                    "year": 1988
+                },
+                {
+                    "country": "BR",
+                    "year": 1990
+                }
+            ],
+            "companyName": "Sega"
+        },
+        {
+            "name": "32X",
+            "nickname": "32X | Project Mars",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1994
+                },
+                {
+                    "country": "JP",
+                    "year": 1994
+                },
+                {
+                    "country": "EU",
+                    "year": 1994
+                }
+            ],
+            "companyName": "Sega"
+        },
+        {
+            "name": "Sega Saturn",
+            "nickname": "Saturn",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1995
+                },
+                {
+                    "country": "JP",
+                    "year": 1994
+                },
+                {
+                    "country": "EU",
+                    "year": 1995
+                }
+            ],
+            "companyName": "Sega"
+        },
+        {
+            "name": "Dreamcast",
+            "nickname": "Dreamcast",
+            "launchYear": [
+                {
+                    "country": "NA",
+                    "year": 1999
+                },
+                {
+                    "country": "JP",
+                    "year": 1998
+                },
+                {
+                    "country": "EU",
+                    "year": 1999
+                },
+                {
+                    "country": "AU",
+                    "year": 1999
+                },
+                {
+                    "country": "BR",
+                    "year": 1999
+                }
+            ],
+            "companyName": "Sega"
+        }
+    ]
+}
