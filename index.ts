@@ -1,4 +1,4 @@
-import fs from 'fs'
+import * as fs from 'fs'
 import express from "express";
 
 const port = 5300
@@ -7,7 +7,7 @@ const app = express()
 app.get('/search/name/:name', (req, res) => {
     fs.readFile('./consolesDataset.json', (err, data) => {
         err && res.send(`<h1>${err}</h1>`)
-        const result = JSON.parse(data)
+        const result = JSON.parse(data.toString())
 
         const arr = result.consoleList.filter(value => {
             return value.name.toLowerCase().includes(req.params.name.toLowerCase()) || value.nickname.toLowerCase().includes(req.params.name.toLowerCase())
@@ -19,7 +19,7 @@ app.get('/search/name/:name', (req, res) => {
 app.get('/search/year/:year', (req, res) => {
     fs.readFile('./consolesDataset.json', (err, data) => {
         err && res.send(`<h1>${err}</h1>`)
-        const result = JSON.parse(data)
+        const result = JSON.parse(data.toString())
 
         const arr = result.consoleList.filter( value => {
 
@@ -37,7 +37,7 @@ app.get('/search/year/:year', (req, res) => {
 app.get('/search/company/:company', (req, res) => {
     fs.readFile('./consolesDataset.json', (err, data) => {
         err && res.send(err)
-        const result = JSON.parse(data)
+        const result = JSON.parse(data.toString())
 
         let arr = result.consoleList.filter( value => {
             return value.companyName.toLowerCase() === req.params.company.toLowerCase()
